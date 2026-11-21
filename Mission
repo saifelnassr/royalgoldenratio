@@ -1,0 +1,24 @@
+<section class="mission-vision-card" id="mission-vision">
+  <div class="lang-block" data-lang="en">
+    <h3>Our Vision 🪞</h3>
+    <p>To restore harmony as a living, directly experienced reality rather than a detached abstraction—where proportion, resonance, color, space, and human perception reflect one another like a clear mirror (<strong>Royal Harmony 🪞 Golden Reality</strong>).</p>
+    <h3>Our Mission 👁️</h3>
+    <p>To build an open, experiential laboratory that invites every visitor to perceive, hear, and test balance firsthand—uniting qualitative intuition, harmonic acoustics, visual alignment, and physical/virtual fabrication readiness into one coherent studio accessible to thinkers, designers, engineers, and curious minds everywhere.</p>
+  </div>
+
+  <div class="lang-block" data-lang="ar" dir="rtl">
+    <h3>رؤيتنا 🪞</h3>
+    <p>أن نعيد التناغم بوصفه واقعاً حياً يُدرَك بالتجربة المباشرة لا مجرد معادلة معزولة؛ حيث تنعكس النسبة والصوت واللون والمكان وإدراك الإنسان في مرآةٍ واحدة صافية (<strong>التناغم الملكي 🪞 الواقع الذهبي</strong>).</p>
+    <h3>رسالتنا 👁️</h3>
+    <p>بناء مختبرٍ تجريبيٍّ مفتوح يدعو كل زائر إلى أن يرى ويسمع ويختبر الاتزان بنفسه؛ يجمع بين البصيرة الكيفية، والرنين الصوتي، والمواءمة البصرية، والجاهزية للتجسيد المادي والواقع الافتراضي في مساحةٍ متكاملة تخدم المفكرين والمصممين والمهندسين وكل باحثٍ عن الجمال والاتزان.</p>
+  </div>
+
+  <div class="lang-block" data-lang="fr">
+    <h3>Notre Vision 🪞</h3>
+    <p>Redonner à l’harmonie sa place de réalité vivante et directement éprouvée plutôt que d’abstraction isolée — où la proportion, la résonance, la couleur, l’espace et la perception humaine se reflètent comme dans un miroir limpide (<em>Harmonie Royale 🪞 Réalité Dorée</em>).</p>
+    <h3>Notre Mission 👁️</h3>
+    <p>Offrir un laboratoire expérientiel ouvert qui invite chacun à percevoir, écouter et éprouver l’équilibre par lui-même — en unissant l’intuition qualitative, l’acoustique harmonique, l’alignement visuel et la préparation à la réalisation physique et virtuelle au sein d’un même atelier accessible à tous.</p>
+  </div>
+
+  <p class="attribution">Authored, innovated, and documented by عبدالعزيز سيف النصر (08 نوفمبر 2026).</p>
+</section>
