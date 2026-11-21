@@ -1,3 +1,10 @@
+git init
+git branch -M main
+git add .
+git commit -m "init: royalgoldenratio core ratios (1.989849 & 1.98994096), rhombus mirror canvas, and orbital tracking"
+git remote add origin https://github.com/saifelnassr/royalgoldenratio.git
+git push -u origin main
+
 # royalgoldenratio 🪙
 
 **Royal golden ratio 🪙 — Royal harmony 🪞 golden reality.**
