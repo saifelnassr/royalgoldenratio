@@ -53,8 +53,7 @@
     }
 
     .lang-btn {
-      background: rgba(255, 255, 255, 0.04);
-      border: 1
+      background: rgba(255, 255, 255, 0.04);  border: 1
 git init
 git branch -M main
 git add .
